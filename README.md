@@ -225,13 +225,6 @@ PostgreSQL Database
 </p>
 
 <p align="center">
-
-<img src="./assets/screenshots/students.png" width="50%">
-<img src="./assets/screenshots/reports.png" width="50%">
-
-</p>
-
-<p align="center">
   <img src="./assets/screenshots/late-records.png"
        alt="Late Records"
        width="900">
