@@ -163,7 +163,7 @@ The platform provides:
 
 # 🏗 System Architecture
 
-AdminTrack follows a **Layered Architecture**.
+AdminTrack adopts a layered architecture to promote separation of concerns, maintainability, and scalability. The diagram below illustrates the high-level flow between users, the application, and the data layer.
 
 ```text
 Users
@@ -184,10 +184,8 @@ Entity Framework Core
 PostgreSQL Database
 ```
 
-📄 Full architecture documentation is available in:
+📄 **Further Reading:** [Architecture Documentation](docs/architecture.md)
 
-```
-docs/architecture.md
 ```
 
 ---
@@ -295,9 +293,11 @@ The implementation source code, infrastructure configuration, database schema, a
 
 Written By: **Alexander Allotey-Bray**
 
-- 📧 Email _ alex.bray77@gmail.com _
+📧 Email: alex.bray77@gmail.com
+
 <p align="center">
 
 ⭐ If you found this engineering case study interesting, consider giving the repository a star.
 
 </p>
+```
