@@ -186,8 +186,6 @@ PostgreSQL Database
 
 📄 **Further Reading:** [Architecture Documentation](docs/architecture.md)
 
-```
-
 ---
 
 # 💻 Technology Stack
@@ -291,7 +289,7 @@ The implementation source code, infrastructure configuration, database schema, a
 
 # 📫 Contact
 
-Written By: **Alexander Allotey-Bray**
+Written By: Alexander Allotey-Bray
 
 📧 Email: alex.bray77@gmail.com
 
