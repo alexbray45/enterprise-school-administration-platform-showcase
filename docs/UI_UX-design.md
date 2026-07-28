@@ -152,7 +152,7 @@ The current design includes the following primary screens.
 | Settings        | System configuration       |
 
 <p align="center">
-    <img src="assets/screenshots/dashboard-home.png" width="900" alt="Dashboard Design">
+    <img src="assets/screenshots/dashboard-home.png"  alt="Dashboard Design">
 </p>
 
 <p align="center">
