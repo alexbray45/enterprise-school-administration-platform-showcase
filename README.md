@@ -165,6 +165,12 @@ The platform provides:
 
 AdminTrack adopts a layered architecture to promote separation of concerns, maintainability, and scalability. The diagram below illustrates the high-level flow between users, the application, and the data layer.
 
+<p align="center">
+  <img src="./assets/diagrams/system-architecture.png"
+       alt="System Architecture"
+       width="900">
+</p>
+
 ```text
 Users
    │
@@ -216,6 +222,26 @@ Application screens include:
 - Reports
 - User Management
 - Settings
+
+<p align="center">
+
+<img src="./assets/screenshots/login.png" width="45%">
+<img src="./assets/screenshots/dashboard.png" width="45%">
+
+</p>
+
+<p align="center">
+
+<img src="./assets/screenshots/students.png" width="45%">
+<img src="./assets/screenshots/reports.png" width="45%">
+
+</p>
+
+<p align="center">
+  <img src="./assets/screenshots/dashboard.png"
+       alt="Dashboard"
+       width="900">
+</p>
 
 Screenshots will be added as development progresses.
 
