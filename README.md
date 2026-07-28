@@ -12,7 +12,7 @@
 
 Digitising administrative operations through modern software engineering.
 
-Designed for **Legae Academy**
+Designed for a secondary educational institution.
 
 </p>
 
@@ -34,6 +34,12 @@ Designed for **Legae Academy**
 
 </p>
 
+> **Note**
+>
+> This repository is intended as a software engineering case study.
+> Documentation has been intentionally limited to high-level design concepts.
+> Implementation details, infrastructure configuration, source code, and sensitive technical information remain private.
+
 ## 📖 Overview
 
 AdminTrack is an enterprise school administration platform designed to modernise attendance administration at Legae Academy.
@@ -49,6 +55,19 @@ The implementation source code is maintained in a private repository.
 Many schools continue to rely on paper-based administrative processes for managing student attendance records, lateness, fines, and reporting. While classroom attendance remains effective on paper, the surrounding administrative workflows often involve duplicated effort, delayed communication, and fragmented record keeping.
 
 AdminTrack was designed to streamline these workflows by providing a secure, scalable, and maintainable web-based administration platform. The project follows a structured software engineering process, from business analysis and requirements engineering through architecture, database design, API specification, UI/UX planning, and technical documentation.
+
+# 📊 Project Highlights
+
+| Metric                  |                Value |
+| ----------------------- | -------------------: |
+| User Roles              |                    4 |
+| Core Modules            |                    8 |
+| Functional Requirements |                  40+ |
+| User Stories            |                  20+ |
+| Planned Screens         |                  10+ |
+| Architecture            | Layered Architecture |
+| Methodology             |          Agile Scrum |
+| Documentation           |             Complete |
 
 ## 🚩 Business Problem
 
@@ -188,58 +207,6 @@ docs/architecture.md
 
 ---
 
-# 🗄 Database Overview
-
-The database is designed using a relational model with PostgreSQL.
-
-Core entities include:
-
-- Students
-- Classes
-- Absences
-- Lateness
-- Fines
-- Payments
-- Users
-- Roles
-- Audit Logs
-
-📄 Full database documentation:
-
-```
-docs/database-design.md
-```
-
----
-
-# 🌐 API Overview
-
-The backend follows RESTful API principles.
-
-Example endpoint:
-
-```http
-POST /api/v1/auth/login
-```
-
-API Features:
-
-- JWT Authentication
-- Versioned Endpoints
-- Standard Response Format
-- Validation
-- Pagination
-- Filtering
-- Role-Based Authorization
-
-📄 Full API documentation:
-
-```
-docs/api-design.md
-```
-
----
-
 # 🖼 UI Preview
 
 Application screens include:
@@ -271,8 +238,8 @@ Completed engineering phases include:
 - ✅ Functional Requirements
 - ✅ Non-Functional Requirements
 - ✅ System Architecture
-- ✅ Database Design
-- ✅ REST API Design
+- ✅ Data Modelling
+- ✅ Service Design
 - ✅ Product Backlog
 - ✅ UI/UX Design
 - ✅ Technical Specification
@@ -315,20 +282,20 @@ This public repository has been created as an engineering case study to showcase
 
 - Business Analysis
 - Requirements Engineering
-- Software Architecture
-- Database Design
-- REST API Design
+- System Architecture
 - UI/UX Design
-- Engineering Documentation
+- Engineering Decisions
+- Software Development Process
 
-If you are a recruiter, hiring manager, or potential client interested in learning more about this project, please feel free to get in touch.
+The implementation source code, infrastructure configuration, database schema, and deployment details remain private.
 
 ---
 
 # 📫 Contact
 
-**Alexander Allotey-Bray**
+Written By: **Alexander Allotey-Bray**
 
+- 📧 Email _ alex.bray77@gmail.com _
 <p align="center">
 
 ⭐ If you found this engineering case study interesting, consider giving the repository a star.
