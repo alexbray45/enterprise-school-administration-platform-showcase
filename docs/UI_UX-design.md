@@ -151,13 +151,13 @@ The current design includes the following primary screens.
 | User Management | User administration        |
 | Settings        | System configuration       |
 
-<p align="center">
+<!-- <p align="center">
     <img src="assets/screenshots/dashboard-home.png"  alt="Dashboard Design">
 </p>
 
 <p align="center">
     <em>Dashboard interface showing attendance summaries and key administrative metrics.</em>
-</p>
+</p> -->
 
 ---
 
@@ -166,7 +166,16 @@ The current design includes the following primary screens.
 - High-fidelity mock-ups:
 
 <p align="center">
-    <img src="./assets/screenshots/dashboard-home.png"  alt="Dashboard Design">
+  <img src="./assets/screenshots/dashboard-home.png"
+       alt="Dashboard"
+       width="900">
+</p>
+<p align="center">
+    <em>Dashboard interface showing attendance summaries and key administrative metrics.</em>
+</p>
+
+<p align="center">
+    <img src="./assets/screenshots/dashboard-home.png"  alt="Dashboard Design" width="900">
 </p>
 
 <p align="center">
