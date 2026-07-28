@@ -172,14 +172,6 @@ The current design includes the following primary screens.
     <em>Dashboard interface showing attendance summaries and key administrative metrics.</em>
 </p>
 
-<p align="center">
-    <img src="./assets/screenshots/dashboard-home.png"  alt="Dashboard Design" width="900">
-</p>
-
-<p align="center">
-    <em>Dashboard interface showing attendance summaries and key administrative metrics.</em>
-</p>
-
 ---
 
 # Future Enhancements
