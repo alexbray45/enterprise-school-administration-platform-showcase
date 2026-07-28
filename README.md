@@ -66,6 +66,8 @@ Current attendance administration at Legae Academy involves multiple manual proc
 
 This process creates unnecessary duplication, delays, and inconsistencies.
 
+---
+
 ## 🔄 Existing Workflow
 
 Teacher Records Attendance
