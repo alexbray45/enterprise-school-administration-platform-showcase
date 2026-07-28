@@ -1,10 +1,10 @@
 # 🎓 AdminTrack
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="assets/banner/admintrack-banner.png" width="100%">
 
-</p>
+</p> -->
 
 <p align="center">
 
@@ -211,22 +211,10 @@ PostgreSQL Database
 
 # 🖼 UI Preview
 
-Application screens include:
-
-- Login
-- Dashboard
-- Students
-- Absence Management
-- Lateness Management
-- Fine Management
-- Reports
-- User Management
-- Settings
-
 <p align="center">
 
 <img src="./assets/screenshots/login.png" width="45%">
-<img src="./assets/screenshots/dashboard.png" width="45%">
+<img src="./assets/screenshots/dashboard-home.png" width="45%">
 
 </p>
 
@@ -238,12 +226,10 @@ Application screens include:
 </p>
 
 <p align="center">
-  <img src="./assets/screenshots/dashboard.png"
+  <img src="./assets/screenshots/dashboard-home.png"
        alt="Dashboard"
        width="900">
 </p>
-
-Screenshots will be added as development progresses.
 
 ---
 
