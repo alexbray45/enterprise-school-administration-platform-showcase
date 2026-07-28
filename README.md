@@ -298,4 +298,3 @@ Written By: Alexander Allotey-Bray
 ⭐ If you found this engineering case study interesting, consider giving the repository a star.
 
 </p>
-```
