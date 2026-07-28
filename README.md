@@ -214,20 +214,51 @@ PostgreSQL Database
 <p align="center">
 
 <img src="./assets/screenshots/login.png" width="45%">
-<img src="./assets/screenshots/dashboard-home.png" width="45%">
-
-</p>
-
-<p align="center">
-
-<img src="./assets/screenshots/students.png" width="45%">
-<img src="./assets/screenshots/reports.png" width="45%">
+<!-- <img src="./assets/screenshots/dashboard-home.png" width="45%"> -->
 
 </p>
 
 <p align="center">
   <img src="./assets/screenshots/dashboard-home.png"
        alt="Dashboard"
+       width="900">
+</p>
+
+<p align="center">
+
+<img src="./assets/screenshots/students.png" width="50%">
+<img src="./assets/screenshots/reports.png" width="50%">
+
+</p>
+
+<p align="center">
+  <img src="./assets/screenshots/late-records.png"
+       alt="Late Records"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/attendance.png"
+       alt="Attendance"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/letters.png"
+       alt="Letters"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/students.png"
+       alt="Students"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/reports.png"
+       alt="Reports"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/audit.png"
+       alt="Audit Log"
        width="900">
 </p>
 
