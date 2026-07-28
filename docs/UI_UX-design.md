@@ -163,14 +163,18 @@ The current design includes the following primary screens.
 
 # Design Assets
 
-The project includes several UI design assets, including:
+- High-fidelity mock-ups:
 
-- Wireframes
-- High-fidelity mock-ups
+<p align="center">
+    <img src="./assets/screenshots/dashboard-home.png"  alt="Dashboard Design">
+</p>
+
+<p align="center">
+    <em>Dashboard interface showing attendance summaries and key administrative metrics.</em>
+</p>
+
 - Design system
 - User flow diagrams
-
-Representative screenshots and interface previews will be added as development progresses.
 
 ---
 
