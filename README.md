@@ -111,3 +111,224 @@ The platform provides:
 • Role-based access control
 
 • Historical attendance records
+
+---
+
+# ✨ Key Features
+
+| Feature                   | Description                                                |
+| ------------------------- | ---------------------------------------------------------- |
+| Student Import            | Import and manage student records from school data sources |
+| Absence Management        | Record, update, and monitor student absences               |
+| Lateness Tracking         | Record daily student lateness and maintain history         |
+| Fine Management           | Automatically calculate and manage lateness fines          |
+| Dashboard                 | View attendance statistics and administrative summaries    |
+| Reports                   | Generate attendance and financial reports                  |
+| Audit Logging             | Track important user activities throughout the system      |
+| Role-Based Access Control | Secure access based on user roles and permissions          |
+
+---
+
+# 👥 User Roles
+
+| Role                     | Responsibilities                                                                |
+| ------------------------ | ------------------------------------------------------------------------------- |
+| Attendance Administrator | Daily attendance administration, lateness recording, fine management, reporting |
+| Assistant Vice Principal | Monitor absences, approve attendance-related activities, oversee administration |
+| Principal                | Review reports, monitor attendance trends, access dashboard analytics           |
+| System Administrator     | Manage users, permissions, system configuration, and security                   |
+
+---
+
+# 🏗 System Architecture
+
+AdminTrack follows a **Layered Architecture**.
+
+```text
+Users
+   │
+   ▼
+React Frontend
+   │
+   ▼
+REST API
+   │
+   ▼
+ASP.NET Core Web API
+   │
+   ▼
+Entity Framework Core
+   │
+   ▼
+PostgreSQL Database
+```
+
+📄 Full architecture documentation is available in:
+
+```
+docs/architecture.md
+```
+
+---
+
+# 💻 Technology Stack
+
+| Layer           | Technology             |
+| --------------- | ---------------------- |
+| Frontend        | React 19               |
+| Backend         | ASP.NET Core 9 Web API |
+| Database        | PostgreSQL             |
+| ORM             | Entity Framework Core  |
+| Authentication  | JWT                    |
+| Styling         | Bootstrap 5            |
+| Version Control | Git & GitHub           |
+| Documentation   | Markdown               |
+
+---
+
+# 🗄 Database Overview
+
+The database is designed using a relational model with PostgreSQL.
+
+Core entities include:
+
+- Students
+- Classes
+- Absences
+- Lateness
+- Fines
+- Payments
+- Users
+- Roles
+- Audit Logs
+
+📄 Full database documentation:
+
+```
+docs/database-design.md
+```
+
+---
+
+# 🌐 API Overview
+
+The backend follows RESTful API principles.
+
+Example endpoint:
+
+```http
+POST /api/v1/auth/login
+```
+
+API Features:
+
+- JWT Authentication
+- Versioned Endpoints
+- Standard Response Format
+- Validation
+- Pagination
+- Filtering
+- Role-Based Authorization
+
+📄 Full API documentation:
+
+```
+docs/api-design.md
+```
+
+---
+
+# 🖼 UI Preview
+
+Application screens include:
+
+- Login
+- Dashboard
+- Students
+- Absence Management
+- Lateness Management
+- Fine Management
+- Reports
+- User Management
+- Settings
+
+Screenshots will be added as development progresses.
+
+---
+
+# ⚙ Engineering Process
+
+Unlike many portfolio projects that begin directly with implementation, AdminTrack was developed using a structured software engineering approach.
+
+Completed engineering phases include:
+
+- ✅ Vision Statement
+- ✅ Business Analysis
+- ✅ Stakeholder Analysis
+- ✅ User Personas
+- ✅ Functional Requirements
+- ✅ Non-Functional Requirements
+- ✅ System Architecture
+- ✅ Database Design
+- ✅ REST API Design
+- ✅ Product Backlog
+- ✅ UI/UX Design
+- ✅ Technical Specification
+- ✅ Design System
+- ✅ Master Project Specification
+
+---
+
+# 🧠 Challenges & Design Decisions
+
+Some key engineering decisions included:
+
+- Preserving paper-based classroom attendance while digitising administrative processes.
+- Designing a flexible fine management system.
+- Separating business logic from presentation.
+- Planning for scalability without over-engineering the initial release.
+- Prioritising maintainability through layered architecture and modular design.
+
+---
+
+# 🚀 Project Roadmap
+
+| Phase                    | Status         |
+| ------------------------ | -------------- |
+| Business Analysis        | ✅ Complete    |
+| Requirements Engineering | ✅ Complete    |
+| System Design            | ✅ Complete    |
+| UI/UX Design             | ✅ Complete    |
+| Development              | 🚧 In Progress |
+| Testing                  | ⏳ Planned     |
+| Deployment               | ⏳ Planned     |
+
+---
+
+# 🔒 Repository Status
+
+The implementation source code for AdminTrack is intentionally maintained in a **private repository**.
+
+This public repository has been created as an engineering case study to showcase the complete software engineering process behind the project, including:
+
+- Business Analysis
+- Requirements Engineering
+- Software Architecture
+- Database Design
+- REST API Design
+- UI/UX Design
+- Engineering Documentation
+
+If you are a recruiter, hiring manager, or potential client interested in learning more about this project, please feel free to get in touch.
+
+---
+
+# 📫 Contact
+
+**Alexander Allotey-Bray**
+
+<p align="center">
+
+⭐ If you found this engineering case study interesting, consider giving the repository a star.
+
+</p>
