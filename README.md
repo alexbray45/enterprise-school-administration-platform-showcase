@@ -69,25 +69,15 @@ This process creates unnecessary duplication, delays, and inconsistencies.
 ## 🔄 Existing Workflow
 
 Teacher Records Attendance
-
 ↓
-
 Absent Students Written onto Paper Forms
-
 ↓
-
 Assistant Vice Principal Collects Forms
-
 ↓
-
 Prefects Record Late Students
-
 ↓
-
 Attendance Administrator Calculates Fines
-
 ↓
-
 Reports Generated Manually
 
 ## 💡 Proposed Solution
