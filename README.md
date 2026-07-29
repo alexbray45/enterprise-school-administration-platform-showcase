@@ -40,6 +40,23 @@ Designed for a secondary educational institution.
 > Documentation has been intentionally limited to high-level design concepts.
 > Implementation details, infrastructure configuration, source code, and sensitive technical information remain private.
 
+---
+
+# 🔒 Repository Status
+
+The implementation source code for AdminTrack is intentionally maintained in a **private repository**.
+
+This public repository has been created as an engineering case study to showcase the complete software engineering process behind the project, including:
+
+- Business Analysis
+- Requirements Engineering
+- System Architecture
+- UI/UX Design
+- Engineering Decisions
+- Software Development Process
+
+The implementation source code, infrastructure configuration, database schema, and deployment details remain private.
+
 ## 📖 Overview
 
 AdminTrack is an enterprise school administration platform designed to modernise attendance administration at Legae Academy.
@@ -303,23 +320,6 @@ Some key engineering decisions included:
 | Development              | 🚧 In Progress |
 | Testing                  | ⏳ Planned     |
 | Deployment               | ⏳ Planned     |
-
----
-
-# 🔒 Repository Status
-
-The implementation source code for AdminTrack is intentionally maintained in a **private repository**.
-
-This public repository has been created as an engineering case study to showcase the complete software engineering process behind the project, including:
-
-- Business Analysis
-- Requirements Engineering
-- System Architecture
-- UI/UX Design
-- Engineering Decisions
-- Software Development Process
-
-The implementation source code, infrastructure configuration, database schema, and deployment details remain private.
 
 ---
 
