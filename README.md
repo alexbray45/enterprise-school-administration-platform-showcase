@@ -59,7 +59,7 @@ The implementation source code, infrastructure configuration, database schema, a
 
 ## 📖 Overview
 
-AdminTrack is an enterprise school administration platform designed to modernise attendance administration at Legae Academy.
+AdminTrack is an enterprise school administration platform designed to modernise attendance administration.
 
 Rather than replacing classroom attendance, AdminTrack digitises the administrative processes that occur after attendance has been taken, including absence management, lateness tracking, fine management, reporting, and audit logging.
 
@@ -88,7 +88,7 @@ AdminTrack was designed to streamline these workflows by providing a secure, sca
 
 ## 🚩 Business Problem
 
-Current attendance administration at Legae Academy involves multiple manual processes.
+Current attendance administration involves multiple manual processes.
 
 • Teachers record attendance using paper registers.
 
